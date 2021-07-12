@@ -1,0 +1,1 @@
+A DTA prediction model which  integrates multi-layered information of drugs and proteins to obtain better prediction performance
